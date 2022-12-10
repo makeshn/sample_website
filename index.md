@@ -172,7 +172,8 @@ that vector.
 
 This can be written mathematically as:
 
- 
+$$x^2$$
+    
 <span> $$\mathrm{Attention}(Q, K, V) = \mathrm{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$ </span>
 
 where $Q$ is the query matrix, $K$ is the key matrix, $V$ is the value
