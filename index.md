@@ -1,8 +1,9 @@
-usemathjax: true
+
 
 ---
 title: Home
 layout: home
+usemathjax: true
 ---
 
 <style TYPE="text/css">
