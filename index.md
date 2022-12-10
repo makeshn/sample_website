@@ -1,9 +1,6 @@
-
-
 ---
 title: Home
 layout: home
-
 ---
 
 
