@@ -1,3 +1,5 @@
+usemathjax: true
+
 ---
 title: Home
 layout: home
