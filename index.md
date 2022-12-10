@@ -3,7 +3,7 @@
 ---
 title: Home
 layout: home
-usemathjax: true
+
 ---
 
 
