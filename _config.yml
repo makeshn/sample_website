@@ -6,7 +6,5 @@ url: https://makeshn.github.io/website
 
 aux_links:
   Template Repository: https://github.com/makeshn/sample_website
-  
-plugins:
-  - jekyll-latex
+
 
