@@ -3,6 +3,6 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://makeshn.github.io/website
-markdown: kramdown
+
 aux_links:
   Template Repository: https://github.com/makeshn/sample_website
